@@ -80,6 +80,7 @@ for i in range(len(seasons)):
             if table:
                 header_row = table.find("tr")
                 headers = [col.text.strip() for col in header_row.find_all("th")]
+                # print("📌 Tiêu đề cột thực tế:", headers)
 
     # 🟢 Xác định vị trí các cột cần lấy
             col_indexes = {
@@ -90,20 +91,24 @@ for i in range(len(seasons)):
                 "tackles": headers.index("Tackles") if "Tackles" in headers else None,
                 "assists": headers.index("Assists") if "Assists" in headers else None,
                 "accurate_passes": headers.index("Accurate passes %") if "Accurate passes %" in headers else None,
-                "sofa_score": headers.index("Average Sofascore") if "Average Sofascore" in headers else None }
+                "sofa_score": headers.index("Average Sofascore Rating") if "Average Sofascore Rating" in headers else None
+        }
+
 
             for row in table.find_all("tr")[1:]:
                 cols = row.find_all("td")
+                
                 # 🟢 Lấy tên đội từ ảnh logo
                 team_element = cols[col_indexes["team"]].find("img") if col_indexes["team"] is not None else None
                 team_name = team_element["alt"].strip() if team_element and "alt" in team_element.attrs else "Không rõ"
+
                 name = cols[col_indexes["name"]].text.strip() if col_indexes["name"] is not None else "Không rõ"
                 goals = cols[col_indexes["goals"]].text.strip() if col_indexes["goals"] is not None else "0"
                 succ_dribbles = cols[col_indexes["succ_dribbles"]].text.strip() if col_indexes["succ_dribbles"] is not None else "0"
                 tackles = cols[col_indexes["tackles"]].text.strip() if col_indexes["tackles"] is not None else "0"
                 assists = cols[col_indexes["assists"]].text.strip() if col_indexes["assists"] is not None else "0"
                 accurate_passes = cols[col_indexes["accurate_passes"]].text.strip() if col_indexes["accurate_passes"] is not None else "0"
-                sofa_score = cols[col_indexes["sofa_score"]].text.strip() if col_indexes["sofa_score"] is not None else "0"
+                sofa_score = cols[col_indexes["sofa_score"]].text.strip() if col_indexes["sofa_score"] is not None else "N/A"
     
                 players_data.append((season_name, team_name, name, goals, succ_dribbles, tackles, assists, accurate_passes, sofa_score))
 
@@ -142,5 +147,5 @@ df = pd.DataFrame(all_players_data, columns=[
 ])
 
 # ✅ **Xuất file CSV**
-df.to_csv("premier_league.csv", index=False, encoding='utf-8-sig')
+df.to_csv("121233all_premier_league.csv", index=False, encoding='utf-8-sig')
 print("✅ Dữ liệu đã được lưu vào sofascore_premier_league.csv! 🎉")
