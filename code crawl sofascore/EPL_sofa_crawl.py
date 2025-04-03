@@ -153,5 +153,5 @@ df = pd.DataFrame(all_players_data, columns=[
 ])
 
 # 🟢 **Lưu vào file CSV**
-df.to_csv("tintinc1sofascore_all_seasons.csv", index=False, encoding='utf-8-sig')
+df.to_csv("premier_league.csv", index=False, encoding='utf-8-sig')
 print("✅ Dữ liệu đã được lưu vào file sofascore_all_seasons.csv!")
