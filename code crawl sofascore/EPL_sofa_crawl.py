@@ -4,26 +4,23 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
 
-# URL trang web
-url = "https://www.sofascore.com/tournament/football/europe/uefa-champions-league/7#id:61644"
-
-# Khởi tạo trình duyệt Selenium
+# 🟢 **Khởi tạo trình duyệt Selenium**
 driver = webdriver.Chrome()
+url = "https://www.sofascore.com/tournament/football/england/premier-league/17#id:61627"
 driver.get(url)
 
 # Đợi trang tải hoàn toàn
 time.sleep(5)
 
-# 🟢 **Lấy danh sách tất cả mùa giải từ dropdown**
+# ✅ **Chọn mùa giải**
 try:
-    # Mở dropdown
     season_dropdown_xpath = '//*[@id="__next"]/main/div/div[3]/div/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[2]/div/div/div/div/button'
     WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, season_dropdown_xpath))).click()
     time.sleep(2)
 
-    # Lấy danh sách các mùa giải
     season_elements = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.XPATH, '//*[@id="__next"]/main/div/div[3]/div/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[2]/div/div/div/div/div/div/div[1]/div/ul/li'))
     )
@@ -35,7 +32,7 @@ except:
     driver.quit()
     exit()
 
-# 🟢 **Duyệt qua từng mùa giải và crawl dữ liệu**
+# 🟢 **Duyệt từng mùa giải để crawl**
 all_players_data = []
 
 for i in range(len(seasons)):
@@ -45,39 +42,19 @@ for i in range(len(seasons)):
         time.sleep(2)
 
         # Chọn mùa giải
-        season_xpath = f'//*[@id="__next"]/main/div/div[3]/div/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[2]/div/div/div/div/div/div/div[1]/div/ul/li[{i+2}]'
-
+        season_xpath = f'//*[@id="__next"]/main/div/div[3]/div/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[2]/div/div/div/div/div/div/div[1]/div/ul/li[{i+1}]'
         season_element = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, season_xpath))
         )
         season_element.click()
         season_name = seasons[i]
         print(f"✅ Đã chọn mùa giải: {season_name}")
-        time.sleep(5)  # Đợi trang load lại dữ liệu
+        time.sleep(3)
+        for _ in range(3):
+            driver.execute_script("window.scrollBy(0, 1000);")  # Cuộn 100px mỗi lần
+            time.sleep(1)  # Chờ dữ liệu tải thêm
 
-        # 🟢 **Nhấn "Detailed" nếu có**
-        try:
-            detailed_button = WebDriverWait(driver, 5).until(
-                EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Detailed')]"))
-            )
-            driver.execute_script("arguments[0].click();", detailed_button)
-            print("✅ Đã nhấn nút 'Detailed'")
-            time.sleep(3)
-        except:
-            print("⚠️ Không tìm thấy nút 'Detailed'! Có thể đã mở sẵn.")
-
-        # 🟢 **Nhấn "Apply" nếu có**
-        try:
-            apply_button = WebDriverWait(driver, 5).until(
-                EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Apply')]"))
-            )
-            driver.execute_script("arguments[0].click();", apply_button)
-            print("✅ Đã nhấn nút 'Apply'")
-            time.sleep(5)
-        except:
-            print("⚠️ Không tìm thấy nút 'Apply'! Có thể không cần thiết.")
-
-        # 🟢 **Chờ bảng dữ liệu xuất hiện**
+        # ✅ **Chờ bảng dữ liệu xuất hiện**
         try:
             WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "sc-67e6dd27-8"))
@@ -87,10 +64,10 @@ for i in range(len(seasons)):
             print("🚨 Không tìm thấy bảng dữ liệu!")
             continue
 
-        time.sleep(3)  # Đợi dữ liệu tải hoàn toàn
+        time.sleep(3)
 
         players_data = []
-        page = 1  # Đếm số trang
+        page = 1
 
         while True:
             print(f"📄 Đang lấy dữ liệu mùa {season_name} - trang {page}...")
@@ -99,30 +76,42 @@ for i in range(len(seasons)):
             soup = BeautifulSoup(driver.page_source, 'html.parser')
             table = soup.find("table", class_="sc-67e6dd27-8 bctIbM")
 
-            # Trích xuất dữ liệu
+# Nếu có bảng thì mới lấy cột tiêu đề
             if table:
-                rows = table.find_all("tr")[1:]  # Bỏ qua hàng tiêu đề
-                for row in rows:
-                    cols = row.find_all("td")
-                    if len(cols) >= 9:
-                        team_element = cols[1].find("img")  # Tìm ảnh logo đội
-                        if team_element:
-                            team_name = team_element.get("alt", "Không rõ").strip()  # Lấy tên từ `alt`
-                        else:
-                            team_name = "Không rõ"
-                        name = cols[2].text.strip()  # Tên cầu thủ
-                        goals = cols[3].text.strip()  # Số bàn thắng
-                        succ_dribbles = cols[4].text.strip()  # Số pha rê bóng thành công
-                        tackles = cols[5].text.strip()  # Số pha tắc bóng
-                        assists = cols[6].text.strip()  # Số pha kiến tạo
-                        accurate_passes = cols[7].text.strip()  # Tỉ lệ chuyền chính xác
-                        sofa_score = cols[8].text.strip()  # Điểm TB (SofaScore)
-                        players_data.append((season_name,team_name, name, goals, succ_dribbles, tackles, assists, accurate_passes, sofa_score))
+                header_row = table.find("tr")
+                headers = [col.text.strip() for col in header_row.find_all("th")]
 
-            # 🟢 **Tìm và click nút chuyển trang**
+    # 🟢 Xác định vị trí các cột cần lấy
+            col_indexes = {
+                "team": headers.index("Team") if "Team" in headers else None,
+                "name": headers.index("Name") if "Name" in headers else None,
+                "goals": headers.index("Goals") if "Goals" in headers else None,
+                "succ_dribbles": headers.index("Succ. dribbles") if "Succ. dribbles" in headers else None,
+                "tackles": headers.index("Tackles") if "Tackles" in headers else None,
+                "assists": headers.index("Assists") if "Assists" in headers else None,
+                "accurate_passes": headers.index("Accurate passes %") if "Accurate passes %" in headers else None,
+                "sofa_score": headers.index("Average Sofascore") if "Average Sofascore" in headers else None }
+
+            for row in table.find_all("tr")[1:]:
+                cols = row.find_all("td")
+                # 🟢 Lấy tên đội từ ảnh logo
+                team_element = cols[col_indexes["team"]].find("img") if col_indexes["team"] is not None else None
+                team_name = team_element["alt"].strip() if team_element and "alt" in team_element.attrs else "Không rõ"
+                name = cols[col_indexes["name"]].text.strip() if col_indexes["name"] is not None else "Không rõ"
+                goals = cols[col_indexes["goals"]].text.strip() if col_indexes["goals"] is not None else "0"
+                succ_dribbles = cols[col_indexes["succ_dribbles"]].text.strip() if col_indexes["succ_dribbles"] is not None else "0"
+                tackles = cols[col_indexes["tackles"]].text.strip() if col_indexes["tackles"] is not None else "0"
+                assists = cols[col_indexes["assists"]].text.strip() if col_indexes["assists"] is not None else "0"
+                accurate_passes = cols[col_indexes["accurate_passes"]].text.strip() if col_indexes["accurate_passes"] is not None else "0"
+                sofa_score = cols[col_indexes["sofa_score"]].text.strip() if col_indexes["sofa_score"] is not None else "0"
+    
+                players_data.append((season_name, team_name, name, goals, succ_dribbles, tackles, assists, accurate_passes, sofa_score))
+
+            # ✅ **Tìm và click nút "Next" để chuyển trang**
             try:
+                next_button_xpath = '//*[@id="__next"]/main/div/div[3]/div/div[1]/div[1]/div[5]/div/div[4]/div/div/button[2]'
                 next_button = WebDriverWait(driver, 5).until(
-                    EC.element_to_be_clickable((By.XPATH, '//*[@id="__next"]/main/div/div[3]/div/div[1]/div[1]/div[5]/div/div[8]/div/div/button[2]'))
+                    EC.element_to_be_clickable((By.XPATH, next_button_xpath))
                 )
                 if "disabled" in next_button.get_attribute("class"):
                     print("🚫 Nút 'Next' bị vô hiệu hóa. Kết thúc mùa!")
@@ -130,28 +119,28 @@ for i in range(len(seasons)):
 
                 print(f"➡️ Đang chuyển sang trang {page + 1}...")
                 driver.execute_script("arguments[0].click();", next_button)
-                time.sleep(5)  # Đợi trang mới tải
+                time.sleep(5)
                 page += 1
             except:
                 print("🚫 Không tìm thấy hoặc không thể nhấn nút tiếp tục. Kết thúc mùa!")
                 break
-
-        # Lưu dữ liệu mùa giải vào danh sách tổng
+            driver.execute_script("window.scrollTo(0, 0);")
+            time.sleep(1)
         all_players_data.extend(players_data)
 
     except Exception as e:
         print(f"⚠️ Lỗi khi crawl mùa {seasons[i]}: {e}")
         continue
 
-# Đóng trình duyệt
+# ✅ **Đóng trình duyệt**
 driver.quit()
 
-# 🟢 **Tạo DataFrame**
+# ✅ **Lưu vào DataFrame**
 df = pd.DataFrame(all_players_data, columns=[
-    'Mùa giải','Tên đội', 'Tên cầu thủ', 'Số bàn thắng', 'Số pha rê bóng thành công', 'Số pha tắc bóng',
-    'Số pha kiến tạo', 'Tỉ lệ chuyền chính xác', 'Điểm TB (SofaScore)'
+    'Mùa giải', 'Tên đội', 'Tên cầu thủ', 'Số bàn thắng', 'Số pha rê bóng thành công', 
+    'Số pha tắc bóng', 'Số pha kiến tạo', 'Tỉ lệ chuyền chính xác', 'Điểm TB (SofaScore)'
 ])
 
-# 🟢 **Lưu vào file CSV**
+# ✅ **Xuất file CSV**
 df.to_csv("premier_league.csv", index=False, encoding='utf-8-sig')
-print("✅ Dữ liệu đã được lưu vào file sofascore_all_seasons.csv!")
+print("✅ Dữ liệu đã được lưu vào sofascore_premier_league.csv! 🎉")
