@@ -27,7 +27,8 @@
 1. Clone repo này về máy:
    ```sh
    git clone https://github.com/BAOTIN2004/sofascore-football-crawler.git
-   cd sofascore-football-crawler
+   cd "code crawl sofascore"
+   python EPL_sofa_crawl.py
 ## Đóng góp
 Nếu bạn muốn đóng góp cho dự án:
 1. Fork repo này.
