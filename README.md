@@ -26,11 +26,12 @@
 ### Cách cài đặt
 1. Clone repo này về máy:
    ```
-   git clone https://github.com/BAOTIN2004/sofascore-football-crawler.git ```
+   git clone https://github.com/BAOTIN2004/sofascore-football-crawler.git 
 2. Di chuyển đến thư mục:
-    ```cd "code crawl sofascore"```
+    ```
+    cd "code crawl sofascore"
 3. Chạy chương trình:
-    ```python EPL_sofa_crawl.py ```
+    ```python EPL_sofa_crawl.py `
 4. Sau khi chạy thành công, file `.csv` chứa dữ liệu được tạo ra trong thư mục làm việc.
 
 #### Tùy chỉnh cài đặt
@@ -45,13 +46,13 @@ Nếu bạn muốn đóng góp cho dự án:
 1. Fork repo này.
 2. Tạo branch mới:
     ```
-    git checkout -b branch-moi ```
+    git checkout -b branch-moi 
 3. Commit thay đổi:
     ```
-    git commit -m "Mô tả thay đổi" ```
+    git commit -m "Mô tả thay đổi" 
 4. Push lên Github:
     ```
-    git push origin branch-moi ```
+    git push origin branch-moi 
 5. Tạo Pull Request để được xem xét và hợp nhất vào nhánh chính.
 
 ## Liên hệ
