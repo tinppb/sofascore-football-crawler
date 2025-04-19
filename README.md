@@ -62,3 +62,6 @@ Nếu có bất kỳ câu hỏi nào, hãy liên hệ qua emai hoặc tạo issu
 ## Người phát triển
 **Phạm Phước Bảo Tín (tinppb)**  
 📧 Email: [baotinphamphuoc@gmail.com](mailto:baotinphamphuoc@gmail.com)  
+
+**Trịnh Quốc Dân (dantq)**  
+📧 Email: [trinhquocdan28022004@gmail.com](mailto:trinhquocdan28022004@gmail.com)
