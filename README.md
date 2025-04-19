@@ -32,11 +32,14 @@
 Nếu bạn muốn đóng góp cho dự án:
 1. Fork repo này.
 2. Tạo branch mới:
-git checkout -b branch-moi
+    ```sh
+    git checkout -b branch-moi
 3. Commit thay đổi:
-git commit -m "Mô tả thay đổi"
+    ```sh
+    git commit -m "Mô tả thay đổi"
 4. Push lên Github:
-git push origin branch-moi
+    ```sh
+    git push origin branch-moi
 
 ## Liên hệ
 Nếu có bất kỳ câu hỏi nào, hãy liên hệ qua emai hoặc tạo issue trên GitHub.
