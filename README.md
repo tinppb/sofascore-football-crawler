@@ -1,22 +1,33 @@
 # Sofascore Football Crawler
 
 ## Giới thiệu
-Sofascore Football Crawler là một công cụ thu thập dữ liệu bóng đá từ trang [Sofascore](https://www.sofascore.com/). Dự án này giúp bạn lấy thông tin về cầu thủ, đội bóng, thống kê các chỉ số của cầu thủ một cách tự động.
+**Sofascore Football Crawler** là một công cụ thu thập dữ liệu bóng đá từ trang [Sofascore](https://www.sofascore.com/). Dự án này giúp bạn lấy thông tin về cầu thủ, đội bóng, và thống kê các chỉ số của cầu thủ một cách tự động.
 
 ## Tính năng
-- Lấy dữ liệu theo giải đấu (Premier League, UEFA champions league, La Liga, Serie A,...).
-- Trích xuất dữ liệu cầu thủ (Season, Team, Name, Goals, Succ. dribbles, Tackles, Assists, Accurate passes %, Average Sofascore Rating).
-- Xuất dữ liệu ra file CSV.
+- Lấy dữ liệu theo giải đấu (Premier League, UEFA Champions League, La Liga, Serie A,...).
+- Trích xuất thông tin chi tiết cầu thủ:
+  - Season
+  - Team
+  - Name
+  - Goals
+  - Successful dribbles
+  - Tackles
+  - Assists
+  - Accurate passes %
+  - Average Sofascore Rating
+- Xuất dữ liệu ra file `.csv`.
 
 ## Cài đặt
 
 ### Yêu cầu hệ thống
 - Python 3.x
-- Các thư viện cần thiết ( Selenium, Pandas, BeautifulSoup,...)
+- Các thư viện cần thiết: `selenium`, `pandas`, `beautifulsoup4`, ...
 
 ### Cách cài đặt
 1. Clone repo này về máy:
-git clone  https://github.com/BAOTIN2004/sofascore-football-crawler.git
+   ```sh
+   git clone https://github.com/BAOTIN2004/sofascore-football-crawler.git
+   cd sofascore-football-crawler
 ## Đóng góp
 Nếu bạn muốn đóng góp cho dự án:
 1. Fork repo này.
