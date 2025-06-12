@@ -1,0 +1,288 @@
+﻿title,price,ratings,num_rates,screen_size,refresh_rate,chipset,GPU,sim_slot,operating_system,storage_GB,battery_mAh,RAM_in_GB
+ASUS ROG Phone 6 12GB 256GB,14490000,5,20,6.78,120,Qualcomm ® Snapdragon ® 8+ thế hệ 1,Adreno ™ 730,2 SIM (Nano-SIM),Android,256,6000,12
+BENCO V91 4GB 128GB,2690000,5,1,6.56,90,Unisoc T606,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+Benco S1 Pro 8GB 256GB,4290000,5,10,6.8,120,Unisoc T616,Mali-G57,2 SIM (Nano-SIM),Android,256,5000,16
+INOI 288S 4G,1000000,5,1,2,120,Apple A18 Pro,Adreno 610,2 SIM (Nano-SIM),Android,192,1000,8
+INOI Note 13s 8GB 256GB,2790000,5,2,6.95,120,Unisoc T606,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+TCL 406S 4GB 64GB,1990000,5,10,6.6,120,Helio G25,IMG GE8320 @ 650 MHz,2 SIM (Nano-SIM),Android,64,5000,4
+OnePlus 11 5G 8GB 128GB - Chỉ có tại CellphoneS,15990000,5,2,6.7,120,Snapdragon 8 Gen 2 (4 nm),Adreno 740,2 SIM (nano‑SIM và eSIM),Android,128,5000,16
+OnePlus 11 5G 16GB 256GB,18990000,5,10,6.7,120,Snapdragon 8 Gen 2 (4 nm),Adreno 740,2 SIM (nano‑SIM và eSIM),Android,256,5000,28
+OnePlus Nord CE 3 Lite - Chỉ có tại CellphoneS,5690000,4.9,9,6.72,120,Snapdragon 695 5G,Adreno 619,2 SIM (Nano-SIM),Android,256,5000,8
+Nokia 105 2 SIM (2019),520000,4.8,8,1.77,120,Apple A18 Pro,Adreno 610,Micro-SIM,Android,192,800,8
+Nokia 8210 4G 128MB,1570000,5,4,2.8,120,Unisoc T107 (22 nm),Adreno 610,2 SIM (Nano-SIM),S30+,0.125,1450,8
+Nokia 110 4G Pro,750000,4.9,18,1.77,120,Unisoc T107,Adreno 610,2 SIM (Nano-SIM),S30+,0.125,1450,8
+Nokia 105 4G Pro,680000,4.8,20,1.77,120,Unisoc T107,Adreno 610,2 SIM (Nano-SIM),Android,0.125,1450,8
+Nokia 220 4G,950000,4.9,18,2.8,120,Unisoc T107,Adreno 610,2 Nano-SIM,S30+,0.125,1450,8
+Nokia 3210 4G,1550000,4.8,6,2.4,120,Unisoc T107,Adreno 610,2 Nano-SIM,Android,0.125,1450,8
+Nokia HMD 105 4G,650000,5,10,2.4,120,Unisoc 8910  & T127,Adreno 610,2 SIM (Nano-SIM),Android,0.125,1450,8
+Masstel izi S3 4G,470000,5,10,1.77,120,Apple A18 Pro,Adreno 610,2 SIM (Nano-SIM),Android,16,1000,8
+Masstel Izi 15 4G,450000,5,5,1.77,120,Unisoc UMS9117,"RAM 48 MB, ROM 128 MB",2 SIM (Nano-SIM),Android,192,1000,8
+Masstel Fami 12S 4G,650000,5,10,1.77,120,Unisoc T107,Adreno 610,2 SIM (Nano-SIM),Android,192,1400,8
+Masstel izi 16 4G,450000,5,5,1.77,120,Unisoc UMS9117,Adreno 610,2 SIM (Nano-SIM),Android,0.125,1000,8
+Masstel izi T2 4G,500000,4.8,5,2.4,120,Unisoc T107,Adreno 610,2 SIM (Nano-SIM),Android,0.125,1800,0.046875
+Điện thoại ZTE Blade V40 6GB 128GB,2290000,4.8,19,6.67,120,Unisoc T618,ARM Mali-G57,2 SIM (Nano-SIM),Android,128,5000,11
+Điện thoại ZTE Blade A72 3GB 128GB,1990000,5,4,6.745,90,UMS9230（T606）,ARM Mali Natt 650MHz,2 SIM (Nano-SIM),Android,128,5130,3
+Điện thoại ZTE Blade A54 4GB 128GB,2190000,5,1,6.6,90,Unisoc SC9863A (28nm),IMG8322,2 SIM (Nano-SIM),Android,128,5000,8
+ZTE Blade V50 Design 8GB 128GB,2790000,4.8,22,6.6,90,Unisoc T606（UMS9230）,ARM Mali G57 1Core @650MHz,2 SIM (Nano-SIM),Android,128,5000,18
+ZTE Blade A52 3GB 64GB,1790000,4.7,9,6.52,120,Unisoc SC9863A,GE8322 up to 550MHz,2 SIM (Nano-SIM),Android,64,5000,3
+ZTE Blade V50 Design 8GB 256GB,2990000,4.9,27,6.6,90,Unisoc T606（UMS9230）,ARM Mali G57 1Core @650MHz,2 SIM (Nano-SIM),Android,256,5000,18
+Điện thoại ZTE Blade  A55 4GB 64GB,1990000,5,2,6.75,90,Unisoc SC9863A1,Adreno 610,2 SIM (Nano-SIM),Android,64,5000,4
+Điện thoại ZTE Blade A55 4GB 128GB,2190000,5,9,6.75,90,Unisoc SC9863A1,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Nubia V60 Design 6GB 256GB,2690000,4.8,12,6.6,90,Unisoc T606,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,6
+Nubia Neo 8GB 256GB,3990000,4.9,61,6.6,120,Chip Unisoc T820,G57@4C 850MHz,2 SIM (Nano-SIM),Android,256,4500,8
+Nubia Music NFC 4GB 128GB (Bản đặc biệt),2090000,4.9,9,6.6,90,Apple A18 Pro,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Nubia Neo 2 5G,4690000,4.9,198,6.72,120,Unisoc T820 (6 nm),Mali-G57,2 SIM (Nano-SIM),Android,256,6000,8
+Itel S23 8GB 256GB,2390000,5,34,6.6,90,Unisoc T606,Adreno 610,Micro-SIM + Nano SIM,Android,256,5000,8
+Itel S23 8GB 128GB,2390000,5,10,6.6,90,Unisoc T606,Adreno 610,Micro-SIM + Nano SIM,Android,128,5000,8
+Itel 9211 4G,490000,5,1,2.4,120,Apple A18 Pro,Adreno 610,2 Nano-SIM,Android,192,1000,0.0625
+Itel 9310 4G,650000,4,5,3,120,Apple A18 Pro,Adreno 610,Nano-SIM,Android,0.125,2000,0.0625
+Itel RS4 12GB 256GB NFC,3990000,5,1,6.56,120,Mediatek Helio G99 Ultimate,Mali-G57 MC2,2 Nano-SIM,Android,256,5000,12
+Itel RS4 8GB 128GB NFC,3290000,5,9,6.56,120,Mediatek Helio G99 Ultimate,Mali-G57 MC2,2 Nano-SIM,Android,128,5000,8
+Itel P55 Plus 8GB 128GB,2790000,4.5,6,6.6,90,Unisoc T606,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+Itel P55 8GB 128GB NFC,2690000,5,13,6.6,90,Unisoc T606 (12 nm),Mali-G57 MP1,2 Nano-SIM,Android,128,5000,8
+Itel RS4 8GB 256GB NFC,3590000,4.9,18,6.56,120,Mediatek Helio G99 Ultimate,Mali-G57 MC2,2 Nano-SIM,Android,256,5000,8
+Sony Xperia 1V 12GB 256GB,20190000,5,10,6.5,120,Snapdragon 8 Gen 2,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,12
+Sony Xperia 1VI 12GB 256GB,25490000,5,10,6.5,120,Snapdragon 8 Gen 3 Mobile Platform,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,12
+Sony Xperia 10VI 8GB 128GB,8750000,5,1,6.1,60,Snapdragon 6 Gen 1 Mobile Platform,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+TECNO SPARK 10 Pro 8GB 128GB,2890000,5,17,6.78,120,Helio G88,Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,5000,8
+TECNO SPARK Go 2024 4GB 64GB,1800000,5,12,6.6,90,Unisoc T606,Mali-G57 MP1,2 SIM (Nano-SIM),Android,64,5000,8
+TECNO SPARK 20 8GB 128GB,3050000,4.8,10,6.56,90,MediaTek Helio G85,Mali-G52 MC2,2 SIM (Nano-SIM),Android,128,5000,16
+TECNO POVA 5 8GB 128GB,3690000,4.8,33,6.78,120,Mediatek MT8781 Helio G99 (6nm),Mali-G52 MC2,2 SIM (Nano-SIM),Android,128,6000,8
+Tecno POP 5 LTE,2150000,5,10,6.52,60,Unisoc SC9863A (28nm),Adreno 610,2 SIM (Nano-SIM),Android,32,5000,2
+Tecno Camon 30 12GB 256GB,5690000,4.7,30,6.78,120,Helio G99 Ultimate(6nm),ARM Mali-G57 MC2,Nano-SIM,Android,256,5000,12
+TECNO SPARK Go 1 4GB 64GB,2190000,4.9,9,6.67,120,Unisoc T615,Adreno 610,2 Nano-SIM,Android,64,5000,4
+TECNO POVA 5 8GB 256GB,3890000,4.9,15,6.78,120,Mediatek MT8781 Helio G99 (6nm),Mali-G52 MC2,2 SIM (Nano-SIM),Android,256,6000,8
+TECNO SPARK 20PRO+ 8GB 256GB,4590000,4.9,31,6.78,120,Mediatek Helio G99,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,16
+TECNO SPARK 30C 4GB 128GB,2490000,4.9,16,6.67,120,MediaTek Helio G81,"MT676 
+ G52 MC2 @820MHz",2 SIM (Nano-SIM),Android,128,5000,8
+Tecno Camon 30 8GB 256GB,5190000,4.9,29,6.78,120,Helio G99 Ultimate(6nm),ARM Mali-G57 MC2,Nano-SIM,Android,256,5000,8
+Tecno Pova 6 8GB 256GB,5890000,4.9,23,6.78,120,MediaTek G99 Ultimate,Mali-G57 3D Graphics,2 Nano-SIM,Android,256,6000,8
+Tecno Pova 6 Neo 8GB 128GB,3990000,4.9,80,6.78,120,MediaTek Helio G99 Ultimate,ARM MAli-G57,2 Nano-SIM,Android,128,7000,8
+TECNO SPARK 30 5G 6GB 128GB,4090000,5,10,6.7,120,MediaTek D6300,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,12
+TECNO CAMON 30S 8GB 256GB,4650000,4.8,59,6.78,120,Mediatek G100,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+TECNO SPARK 30 Pro 8GB 256GB Transformer - Chỉ có tại CellphoneS,4590000,4.6,9,6.78,120,MediaTek Helio G100,Adreno 610,2 Nano-SIM,Android,256,5000,8
+vivo Y36 8GB 256GB,5390000,5,10,6.64,90,Qualcomm Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+vivo Y22S 4GB 128GB,4290000,5,10,6.55,120,Qualcomm Snapdragon 680,Adreno 610,2 SIM (Nano-SIM),Khác,128,5000,4
+vivo Y03t 4GB 64GB,2990000,5,10,6.56,90,T612,Adreno 610,2 SIM (Nano-SIM),Android,64,5000,4
+vivo Y02t 4GB 64GB,2790000,5,10,6.51,60,MediaTek Helio P35 8 nhân,IMG PowerVR GE8320,2 SIM (Nano-SIM),Android,64,5000,4
+vivo Y17s 4GB 64GB,3090000,5,10,6.56,90,MediaTek Helio G85,Mali-G52,2 SIM (Nano-SIM),Android,64,5000,4
+vivo Y03t 4GB 128GB,3190000,5,10,6.56,90,T612,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+vivo Y16 4GB 128GB,3690000,5,2,6.51,120,MediaTek Helio P35 8 nhân,IMG PowerVR GE8320,2 SIM (Nano-SIM),Android,128,5000,5
+vivo Y04 6GB 128GB,3790000,5,10,6.74,120,Unisoc T7225 8 nhân,Mali-G52,2 Nano-SIM,Android,128,5500,6
+vivo Y04 4GB 64GB,2990000,5,10,6.74,120,Unisoc T7225 8 nhân,Mali-G52,2 Nano-SIM,Android,64,5500,4
+vivo Y36 8GB 256GB,5390000,5,10,6.64,90,Qualcomm Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+vivo V25e 8GB 128GB,5690000,5,3,6.44,90,MediaTek Helio G99,Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,4500,8
+vivo Y03 4GB 64GB,2990000,5,10,6.56,90,MediaTek Helio G85,Mali-G52 MC2,2 SIM (Nano-SIM),Android,64,5000,8
+vivo Y18S 6GB 128GB,3990000,5,1,6.56,90,Helio G85,Mali-G52 MC2,2 SIM (Nano-SIM),Android,128,5000,6
+vivo Y17s 4GB 128GB,3190000,4.6,7,6.56,90,MediaTek Helio G85,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+vivo Y19S 8GB 128GB,4590000,5,10,6.68,90,T612,Adreno 610,2 Nano-SIM,Android,128,5500,8
+vivo Y36 8GB 128GB,4990000,4.7,6,6.64,90,Qualcomm Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+vivo V30E 12GB 256GB,8990000,5,10,6.78,120,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),Adreno 710,2 SIM (Nano-SIM),Android,256,5500,12
+Vivo Y100,6490000,5,10,6.67,120,Snapdragon 685 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+Infinix Hot 50 8GB 256GB,3790000,5,4,6.78,120,MediaTek Helio G100,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+Infinix Hot 40i 4GB 128GB,2290000,5,28,6.56,90,Unisoc T606 (12 nm),"Mali-G57 MC2, 650MHz",2 SIM (Nano-SIM),Android,128,5000,4
+Infinix Note 40 Pro 8GB 256GB,5790000,4.8,17,6.78,120,MediaTek Helio G99 Ultimate,Mali-G57 MC2,2 SIM (Nano-SIM),Khác,256,5000,8
+Infinix Hot 40 Pro Free Fire 8GB 256GB,3990000,5,30,6.78,120,Mediatek Helio G99 (6nm),Mali-G57 MC2,2 SIM (Nano-SIM),Android,256,5000,8
+Infinix Hot 40i 8GB 256GB,2890000,4.9,7,6.56,90,Unisoc T606 (12 nm),"Mali-G57 MC2, 650MHz",2 SIM (Nano-SIM),Android,256,5000,8
+Infinix Hot 50 8GB 256GB,3790000,5,4,6.78,120,MediaTek Helio G100,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+Infinix Hot 50 Pro Plus 8GB 256GB,4890000,4.9,12,6.78,120,MediaTek Helio G100,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+Nothing Phone CMF 1 8GB 256GB,7090000,5,10,6.67,120,MediaTek Dimensity 7300 5G,4nm TSMC process,2 SIM (Nano-SIM),Android,256,5000,8
+Nothing Phone CMF 1 8GB 128GB,6490000,5,10,6.67,120,MediaTek Dimensity 7300 5G,4nm TSMC process,2 SIM (Nano-SIM),Android,128,5000,8
+Nothing Phone 2A 5G 12GB 256GB - Chỉ có tại CellphoneS,7990000,5,3,6.7,120,MediaTek Dimensity 7200 Pro (4nm TSMC process),Adreno 610,2 SIM (Nano-SIM),Android,256,5000,12
+Nothing Phone 2A Plus 5G 12GB 256GB - Chỉ có tại CellphoneS,8890000,5,3,6.7,120,MediaTek Dimensity 7350 Pro 5G,ARM Mali G610 MC4,2 SIM (Nano-SIM),Android,256,5000,12
+Nothing Phone 2A 5G 8GB 128GB - Chỉ có tại CellphoneS,6790000,5,4,6.7,120,MediaTek Dimensity 7200 Pro (4nm TSMC process),Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+realme C51 4GB 64GB,3290000,5,10,6.74,120,Unisoc Tiger T612,Mali-G57,2 SIM (Nano-SIM),Android,64,5000,8
+realme C51 4GB 128GB,2390000,4.7,16,6.74,90,Unisoc UNISOC T612,Mali-G57,2 SIM (Nano-SIM),Android,128,5000,8
+realme C55 6GB 128GB,3480000,4.9,22,6.72,90,Helio G88,Mali-G52,2 SIM (Nano-SIM),Android,128,5000,6
+realme 11 8GB 128GB,4590000,5,9,6.4,90,Chip Helio G99,ARM G57 MC2,2 SIM (Nano-SIM),Android,128,5000,16
+realme 11 Pro (8GB -  256GB),7790000,5,4,6.7,120,Mediatek Dimensity 7050 5G,Mali-G68,2 SIM (Nano-SIM),Android,256,5000,8
+realme C53 8GB 256GB,3750000,5,4,6.74,90,Unisoc Tiger T612,ARM Mali-G57,2 SIM (Nano-SIM),Android,256,5000,16
+realme C67 8GB 128GB,4290000,4.9,16,6.72,90,Snapdragon 685 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+realme 10 8GB 256GB,7190000,5,14,6.4,90,Helio G99 (6nm),Mali-G57 MC2,2 SIM (Nano-SIM),Android,256,5000,8
+realme Note 60 4GB 64GB,3090000,5,4,6.74,90,UNISOC T612,Mali-G57,2 Nano-SIM,Android,64,5000,4
+realme Note 60x 3GB 64GB,2690000,5,6,6.74,90,Unisoc T612,Adreno 610,2 SIM (Nano-SIM),Android,64,5000,3
+realme C61 6GB 128GB,3890000,4,1,6.745,90,Unisoc Tiger T612,ARM Mali-G57 MP4,2 Nano-SIM,Android,128,5000,6
+realme C61 4GB 128GB,2890000,4.7,3,6.745,90,Unisoc Tiger T612,ARM Mali-G57 MP4,2 Nano-SIM,Android,128,5000,4
+realme C51 6GB 256GB,3390000,5,1,6.74,90,Unisoc UNISOC T612,Mali-G57,2 SIM (Nano-SIM),Android,256,5000,6
+realme C60 4GB 64GB,2390000,5,3,6.74,90,Unisoc T612,ARM Mali-G57,2 SIM (Nano-SIM),Android,64,5000,4
+realme C65 8GB 256GB,3850000,5,1,6.67,90,MediaTek Helio G85 8 nhân,Mali-G52,2 SIM (Nano-SIM),Android,256,5000,8
+realme C65s 8GB 256GB,4890000,5,10,6.745,90,Unisoc Tiger T612,Mali-G57,2 SIM (Nano-SIM),Android,256,5000,8
+realme 13+ 5G 8GB 256GB,7690000,5,4,6.67,120,Dimensity 7300 Energy 5G,Arm® Mali-G615,2 Nano-SIM,Android,256,5000,8
+OPPO Reno12 5G (12GB 512GB),16090000,5,10,6.7,120,Dimensity 7300 (4nm),Adreno 610,2 SIM (Nano-SIM),Android,512,5000,12
+OPPO Reno10 128GB,7990000,4.5,2,6.7,120,MediaTek Dimensity 7050,ARM Mail-G68 MC4,2 SIM (Nano-SIM),Android,128,5000,8
+OPPO Reno11 F 5G 8GB 256GB,8490000,5,5,6.7,120,Mediatek Dimensity 7050 (6 nm),Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+OPPO Reno10 5G 8GB 256GB,8490000,4.8,4,6.7,120,MediaTek Dimensity 7050 5G 8 nhân,ARM Mail-G68 MC4,2 SIM (Nano-SIM),Android,256,5000,8
+OPPO A76,4190000,5,1,6.56,90,Snapdragon 680 4G (6 nm),Adreno 610,2 SIM (Nano-SIM),Android,128,5000,6
+OPPO A77s 8GB 128GB,5190000,5,2,6.56,90,Snapdragon 680 4G,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+OPPO A17K,2790000,4.7,6,6.56,60,MediaTek Helio G35 8 nhân,IMG GE8320 @ 680MHz,2 SIM (Nano-SIM),Android,64,5000,3
+OPPO Find N3 16GB 512GB,32490000,5,1,7.82,120,Snapdragon 8 Gen 2 8 nhân,Adreno 740,Nano-SIM + eSIM,Android,512,4805,16
+OPPO A78 4G 8GB 256GB,6490000,5,6,6.43,90,"Qualcomm Snapdragon 680, tối đa 2.4GHz",Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+OPPO A58 4G 6GB 128GB,4290000,5,6,6.72,60,"Helio G85, tối đa 2.0GHz",Mali G52 MP2,2 SIM (Nano-SIM),Android,128,5000,6
+OPPO Find N3 Flip 12GB 256GB,16490000,5,4,6.8,120,MediaTek Dimensity 9200,Immortalis-G715 MC11,2 SIM (Nano-SIM),Android,256,4300,12
+OPPO A18 4GB 64GB,2990000,5,10,6.56,90,MediaTek Helio G85 8 nhân,Mali-G52 MP2,2 SIM (Nano-SIM),Android,64,5000,4
+OPPO A38 6GB 128GB,3990000,5,10,6.56,90,MediaTek Helio G85 8 nhân,Mali-G52 MP2,2 SIM (Nano-SIM),Android,128,5000,6
+OPPO Find X5 Pro 5G 12GB 256GB,13490000,4.8,4,6.7,120,Qualcomm Snapdragon 8 Gen 1,Adreno 730 @818MHz,2 SIM (Nano-SIM),Android,256,5000,12
+OPPO A3 8GB 256GB,6090000,5,1,6.67,90,"Snapdragon 6s 4G Gen1, tối đa 2.1GHz",Adreno 610,2 SIM (Nano-SIM),Android,256,5100,8
+OPPO A58 8GB 128GB,4790000,5,10,6.72,60,MediaTek Helio G85 8 nhân,Mali-G52 MP2,2 SIM (Nano-SIM),Android,128,5000,8
+OPPO Reno13 F 5G 12GB 256GB,10790000,4.7,3,6.67,120,"Qualcomm Snapdragon 6 Gen1 5G, tối đa 2.2GHz",Adreno 710,2 Nano-SIM,Android,256,5800,12
+OPPO A18 4GB 128GB,3290000,5,8,6.56,90,MediaTek Helio G85 8 nhân,Mali G52 MP2,2 SIM (Nano-SIM),Android,128,5000,4
+OPPO A79 5G 8GB 256GB,6990000,5,4,6.72,90,MediaTek Dimensity 6020 5G 8 nhân,Mali-G57 MC2,2 SIM (Nano-SIM),Android,256,5000,8
+OPPO Reno12 F 5G 8GB 256GB,7490000,4.8,8,6.7,120,MediaTek Dimensity 6300,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,8
+OPPO A3 6GB 128GB,4590000,5,10,6.67,90,"Snapdragon 6s 4G Gen1, tối đa 2.1GHz",Adreno 610,2 SIM (Nano-SIM),Android,128,5100,6
+OPPO Reno13 F 8GB 256GB,8790000,5,17,6.67,120,"MediaTek Helio G100, tối đa 2.2GHz",ARM G57 MC2 1.0GHz,2 SIM (Nano-SIM),Android,256,5800,8
+OPPO Reno12 5G 12GB 256GB,9490000,4.6,5,6.7,120,MediaTek Dimensity 7300,Adreno 610,2 SIM (Nano-SIM),Android,256,5000,12
+OPPO Find X8,21990000,4.9,29,6.59,120,MediaTek Dimensity 9400,Immortalis G925 MC12,Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM,Android,512,5630,16
+Xiaomi Redmi 10 (4GB - 128GB),3650000,4.8,30,6.5,90,MediaTek Helio G88,Mali-G52 MC2,2 SIM (Nano-SIM),Khác,128,5000,4
+Xiaomi Redmi Note 11S,4990000,4.8,10,6.43,90,MediaTek Helio G96CPU,ARM Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,5000,8
+Xiaomi Redmi Note 11 Pro Plus 5G - Chỉ có tại CellphoneS,6090000,4.9,33,6.67,120,MediaTek Dimensity 920 5G (6 nm),ARM Mali-G68,2 SIM (Nano-SIM),Android,256,4500,8
+Xiaomi Redmi 12C 4GB 64GB,2190000,4.9,25,6.71,120,Mediatek MT6769Z Helio G85 (12nm),Mali-G52 MC2,2 SIM (Nano-SIM),Android,64,5000,4
+Xiaomi Redmi Note 11 128GB,4090000,4.6,44,6.43,90,Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Xiaomi Redmi Note 12 8GB 128GB,4290000,4.9,57,6.67,120,Qualcomm Snapdragon 685,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,8
+Xiaomi Redmi Note 11,3890000,4.8,33,6.43,90,Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,64,5000,4
+Xiaomi Redmi A3 4GB 128GB,2390000,5,1,6.71,90,MediaTek Helio G36,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Xiaomi Redmi Note 12 Pro 4G 8GB 256GB,5690000,4.5,17,6.67,120,Qualcomm SM7150 Snapdragon 732G (8 nm),Adreno 618,2 SIM (Nano-SIM),Android,256,5000,8
+Xiaomi Redmi 13C 6GB 128GB,2990000,4.9,19,6.74,90,MediaTek Helio G85 8 nhân,Mali-G52 MC2,2 SIM (Nano-SIM),Android,128,5000,6
+Xiaomi Redmi Note 11 Pro 5G,5590000,4.9,7,6.67,120,Snapdragon® 695,Qualcomm® Adreno™ 619,2 SIM (Nano-SIM),Android,128,5000,8
+Xiaomi Redmi Note 13 Pro 4G 8GB 128GB,5990000,5,40,6.67,120,MediaTek Helio G99-Ultra 8 nhân,Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,5000,8
+Redmi Note 13 Pro 5G 12GB 512GB,9290000,4.7,3,6.67,120,Snapdragon 7s Gen 2 8 nhân,Adreno 710,2 SIM (Nano-SIM),Android,512,5100,12
+Xiaomi 12T 8GB 128GB,5490000,5,160,6.67,120,MediaTek Dimensity 8100 Ultra 8 nhân,Mali G610 MC6,2 SIM (Nano-SIM),Android,128,5000,8
+Xiaomi 13T 12GB 256GB,10590000,4.9,22,6.67,144,MediaTek Dimensity 8200-Ultra,Mali-G610,2 SIM (Nano-SIM),Android,256,5000,12
+Xiaomi 13 Pro (12GB - 256GB),24490000,5,10,6.73,120,Chip Snapdragon® 8 Gen 2,Adreno 610,2 SIM (Nano-SIM),Android,256,4820,12
+Xiaomi 14 Ultra 5G 16GB 512GB,24090000,4.7,3,6.73,120,Snapdragon 8 Gen 3,Qualcomm® Adreno™ GPU,2 SIM (Nano-SIM),Khác,512,5000,16
+Xiaomi Redmi Note 12 4GB 128GB,3790000,4.9,53,6.67,120,Qualcomm Snapdragon 685,Adreno™ 610,2 SIM (Nano-SIM),Android,128,5000,4
+Xiaomi 14 12GB 256GB,18990000,4.9,18,6.36,120,Qualcomm Snapdragon 8 Gen 3 (4 nm),Adreno 750,2 SIM (Nano-SIM),Android,256,4610,12
+Xiaomi POCO X7 Pro 5G 12GB 256GB - Chỉ có tại CellphoneS,9190000,5,19,6.67,120,Dimensity 8400-Ultra,Mali G615,2 SIM (Nano-SIM),Android,256,5000,12
+Xiaomi POCO M5 (6GB 128GB),2990000,4.9,21,6.58,90,MediaTek Helio G99 (6nm),Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,5000,6
+Xiaomi 13 8GB 256GB,16490000,5,5,6.36,120,Chip Snapdragon® 8 thế hệ thứ 2,GPU Qualcomm® Adreno™,2 SIM (Nano-SIM),Android,256,4500,8
+Xiaomi Redmi Note 13 Pro 8GB 256GB,6290000,4.9,8,6.67,120,MediaTek Helio G99-Ultra 8 nhân,Mali-G57 MC2,2 SIM (Nano-SIM),Android,256,5000,8
+Xiaomi POCO X6 Pro 5G 8GB 256GB - Chỉ có tại CellphoneS,8490000,4.9,173,6.67,120,Dimensity 8300-Ultra,Mali G615,2 SIM (Nano-SIM),Android,256,5000,8
+Xiaomi Redmi Note 13 Pro Plus 5G 8GB 256GB,8290000,4.9,39,6.67,120,Mediatek Dimensity 7200 Ultra (4 nm),Mali-G610 MC4,2 SIM (Nano-SIM),Android,256,5000,8
+Redmi Note 13 Pro 5G 12GB 512GB,9290000,4.7,3,6.67,120,Snapdragon 7s Gen 2 8 nhân,Adreno 710,2 SIM (Nano-SIM),Android,512,5100,12
+Xiaomi Redmi 14C 4GB 128GB,2690000,4.8,30,6.88,120,MediaTek Helio G81-Ultra,Adreno 610,2 SIM (Nano-SIM),Android,128,5160,4
+Xiaomi Redmi Note 13 6GB 128GB,3990000,5,47,6.67,120,Snapdragon 685,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,6
+Xiaomi Redmi Note 13 Pro 5G 8GB 256GB,7790000,4.8,17,6.67,120,Snapdragon 7s Gen 2 8 nhân,Adreno 710,Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM,Android,256,5100,8
+Xiaomi Redmi Note 13 Pro 4G 8GB 128GB,5990000,5,40,6.67,120,MediaTek Helio G99-Ultra 8 nhân,Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,5000,8
+Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB,9790000,4.9,14,6.67,120,Snapdragon® 7s Gen 3,Qualcomm® Adreno™ GPU,2 Nano-SIM,Android,256,5110,8
+Xiaomi 14T 12GB 512GB,10990000,5,33,6.67,144,MediaTek Dimensity 8300-Ultra,Arm Mali-G615 MC6,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,Android,512,5000,12
+Samsung Galaxy S25 Plus 512GB,25990000,5,10,6.7,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,512,4900,12
+Samsung Galaxy S25 512GB,22490000,5,10,6.2,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,512,4000,12
+Samsung Galaxy Z Fold6 12GB 1TB,45990000,5,10,7.6,120,Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI,Adreno 610,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,1024,4400,12
+Samsung Galaxy Z Fold6 12GB 512GB,40990000,5,10,7.6,120,Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI,Adreno 610,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,512,4400,12
+Samsung Galaxy Z Flip6 12GB 512GB,26990000,5,10,6.7,120,Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI,Adreno 610,1 Nano SIM + 1 eSIM hoặc 2 eSIM,Android,512,4000,12
+Samsung Galaxy Z Flip4 Flex Mode Collection,25990000,5,10,6.7,120,Snapdragon 8+ Gen 1 (4 nm),Adreno 670,2 SIM (nano‑SIM và eSIM),Android,256,3700,8
+Samsung Galaxy Z Flip3 5G 256GB,26990000,5,3,6.7,120,Snapdragon 888 8 nhân,Adreno 660,2 SIM (nano‑SIM và eSIM),Android,256,3300,8
+Samsung Galaxy Z Fold4 512GB,24490000,5,10,7.6,120,Snapdragon 8 Plus Gen 1,Adreno 670,2 SIM (nano‑SIM và eSIM),Android,512,4400,12
+Samsung Galaxy Z Fold3 5G 256GB,41990000,4.9,16,7.6,120,Snapdragon 888 5G (5 nm),Adreno 660,2 SIM (nano‑SIM và eSIM),Android,256,4400,12
+Samsung Galaxy Z Flip3 5G 128GB,24990000,5,4,6.7,120,Snapdragon 888 8 (5nm),Adreno 660,2 SIM (nano‑SIM và eSIM),Android,128,3300,8
+Samsung Galaxy Z Flip4 128GB,11190000,5,3,6.7,120,Snapdragon 8+ Gen 1 8 nhân,Adreno 670,2 SIM (nano‑SIM và eSIM),Android,128,3700,8
+Samsung Galaxy Z Fold5 12GB 256GB,27990000,5,10,7.6,120,Snapdragon 8 Gen 2 for Galaxy (4nm) 8 nhân,Adreno 740,2 SIM (nano‑SIM và eSIM),Android,256,4400,12
+Samsung Galaxy Z Fold5 12GB 512GB,29990000,5,5,7.6,120,Snapdragon 8 Gen 2 for Galaxy (4nm) 8 nhân,Adreno 740,2 SIM (nano‑SIM và eSIM),Android,512,4400,12
+Samsung Galaxy Z Flip5 256GB,25990000,4.5,4,6.7,120,Snapdragon 8 Gen 2 for Galaxy,Adreno 740,2 SIM (nano‑SIM và eSIM),Android,256,3700,8
+Samsung Galaxy M15 5G,5890000,5,10,6.5,90,Mediatek Dimensity 6100+ (6 nm),Mali-G57 MC2,2 SIM (Nano-SIM),Android,128,6000,6
+Samsung Galaxy M14 5G 4GB 128GB,4490000,4.8,26,6.6,90,Exynos 1330 (5nm),Mali-G68 MP2,2 SIM (Nano-SIM),Android,128,6000,4
+Samsung Galaxy M34 5G 8GB 128GB,5890000,4.8,15,6.5,120,Exynos 1280 (5 nm),Mali-G68,2 SIM (Nano-SIM),Android,128,6000,8
+Samsung Galaxy M55 5G 8GB 256GB,8390000,5,10,6.7,120,Qualcomm Snapdragon 7 Gen 1 (4 nm),Adreno 644,2 SIM (Nano-SIM),Android,256,5000,8
+Samsung Galaxy A32,6490000,4.8,20,6.4,90,Mediatek Helio G80 (12 nm),Mali-G52 MC2,2 SIM (Nano-SIM),Android,128,5000,6
+Samsung Galaxy A23 5G,4150000,4.8,13,6.6,120,Snapdragon 695 5G (6 nm),Adreno 619,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy A13 (4G),4190000,5,5,6.6,60,Exynos 850 8 nhân,Mali-G52,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy A23 4G,3600000,4.8,8,6.6,120,Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy A54 5G 8GB 128GB,7390000,5,6,6.4,120,Exynos 1380 (5 nm),Mali-G68 MP5,2 SIM (Nano-SIM),Android,128,5000,8
+Samsung Galaxy A73 (5G) 256GB - Chỉ có tại CellphoneS,12990000,4.9,28,6.7,120,Snapdragon 778G 5G 8 nhân,Adreno 642L,2 SIM (Nano-SIM),Android,256,5000,8
+Samsung Galaxy A05 4GB 128GB,2790000,4.9,15,6.7,60,Mediatek Helio G85,4 nhân 2.0 GHz & 4 nhân 1.8 GHz,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy A53 (5G),9990000,4.9,11,6.5,120,Exynos 1280 8 nhân,Mali-G68,2 SIM (Nano-SIM),Android,128,5000,8
+Samsung Galaxy A05S 4GB 128GB,3090000,5,19,6.7,90,Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy A06 5G 4GB 128GB,3990000,5,1,6.7,120,MediaTek Helio G85 8 nhân,Mali-G52,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy A05S 6GB 128GB,3190000,5,10,6.7,90,Snapdragon 680 8 nhân,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,6
+Samsung Galaxy A16 LTE 4GB 128GB,4590000,5,1,6.7,90,MediaTek Helio G99,Mali-G57,2 Nano-SIM,Android,128,5000,4
+Samsung Galaxy S23 8GB 256GB,24990000,5,2,6.1,120,Snapdragon 8 Gen 2,Adreno 740,2 Nano-SIM + eSIM,Android,256,3900,8
+Samsung Galaxy S23 Ultra 12GB 1TB,44990000,5,1,6.8,120,Snapdragon 8 Gen 2 (4 nm),Adreno 740,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,1024,5000,12
+Samsung Galaxy S23 Plus 8GB 256GB,19990000,5,2,6.6,120,Snapdragon 8 Gen 2 (4 nm),Adreno 740,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,256,4700,8
+Samsung Galaxy S24 Ultra 12GB 1TB,44490000,4.7,3,6.8,120,Snapdragon 8 Gen 3,Adreno 750 (1 GHz),SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,1024,5000,12
+Samsung Galaxy S24 8GB 256GB,16790000,5,6,6.2,120,Exynos 2400,Xclipse 940,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,256,4000,8
+Samsung Galaxy S22 Ultra 12GB  256GB đã kích hoạt online - Chỉ có tại CellphoneS,18990000,4.8,43,6.8,120,Snapdragon 8 Gen 1 (4 nm),Adreno 730,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,256,5000,12
+Samsung Galaxy S23 FE 8GB 256GB - ĐKH Online,11890000,4.8,10,6.4,120,Exynos 2200 8 nhân,Xclipse 920,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,256,4500,8
+Samsung Galaxy S22 Ultra 8GB 128GB,30990000,5,80,6.8,120,Snapdragon 8 Gen 1 8 nhân,Adreno 730,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,128,5000,8
+Samsung Galaxy S23 FE 5G 8GB 128GB,14890000,4.9,7,6.4,120,Exynos 2200 8 nhân,Xclipse 920,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,128,4500,8
+Samsung Galaxy S23 8GB 128GB ĐKH Online - Chỉ có tại CellphoneS,13790000,5,41,6.1,120,Snapdragon 8 Gen 2 for Galaxy,Adreno 740,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,128,3900,8
+Samsung Galaxy S23 Ultra 12GB 512GB,22290000,4.8,26,6.8,120,Snapdragon 8 Gen 2 (4 nm),Adreno 740,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,512,5000,12
+Samsung Galaxy S24 Plus 12GB 512GB,21190000,5,1,6.7,120,Exynos 2400,Xclipse 940,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,512,4900,12
+Samsung Galaxy S24 8GB 512GB,20190000,5,1,6.2,120,Exynos 2400,Xclipse 940,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,512,4000,8
+Samsung Galaxy S24 Ultra 12GB 512GB,28590000,4.9,8,6.8,120,Snapdragon 8 Gen 3,Adreno 750 (1 GHz),SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,512,5000,12
+Samsung Galaxy S24 Plus 12GB 256GB,18990000,5,8,6.7,120,Exynos 2400,Adreno 750,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,256,4900,12
+Samsung Galaxy S25 Ultra 1TB,38190000,5,1,6.9,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,1024,5000,12
+Samsung Galaxy S25 Plus 256GB,22990000,5,4,6.7,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,256,4900,12
+Samsung Galaxy A25 5G 6GB 128GB,5390000,4.8,17,6.5,120,Exynos 1280 8 nhân,Mali-G68,2 SIM (Nano-SIM),Android,128,5000,6
+Samsung Galaxy A06 4GB 128GB,3190000,4.9,11,6.7,60,MediaTek Helio G85,Adreno 610,2 SIM (Nano-SIM),Android,128,5000,4
+Samsung Galaxy S25 Ultra 512GB,31990000,4.8,9,6.9,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,512,5000,12
+Samsung Galaxy A35 5G 8GB 128GB,6790000,4.9,17,6.6,120,Exynos 1380,Mali-G68 MP5,2 SIM (Nano-SIM),Android,128,5000,8
+Samsung Galaxy S23 Ultra 256GB,19490000,5,48,6.8,120,Snapdragon 8 Gen 2 (4 nm),Adreno 740,2 Nano SIM hoặc 1 Nano + 1 eSIM,Android,256,5000,8
+Samsung Galaxy A55 5G 8GB 128GB,8490000,4.9,34,6.6,120,Exynos 1480 4nm 2.4GHz,AMD Titan 1WGP,2 SIM (Nano-SIM),Android,128,5000,8
+Samsung Galaxy A36 5G 8GB 128GB,7990000,5,1,6.7,120,Snapdragon 6 Gen 3,Adreno 610,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,128,5000,8
+Samsung Galaxy Z Fold6 12GB 256GB,38990000,4.9,22,7.6,120,Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI,Adreno 610,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,256,4400,12
+Samsung Galaxy A16 5G 8GB 128GB,6090000,4.8,12,6.7,90,MediaTek Dimensity 6300(6nm),Mali-G57,2 Nano-SIM,Android,128,5000,8
+iPhone 12 Pro 128GB I Chính hãng VN/A,24990000,5,54,6.1,60,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),2 SIM (nano‑SIM và eSIM),iOS,128,5000,6
+iPhone 12 Pro Max 256GB I Chính hãng VN/A,27590000,5,10,6.7,60,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),2 SIM (nano‑SIM và eSIM),iOS,256,5000,6
+iPhone 12 64GB | Chính hãng VN/A,7990000,4.9,75,6.1,60,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),2 SIM (nano‑SIM và eSIM),iOS,64,5000,4
+iPhone 12 mini 64GB I Chính hãng VN/A,12990000,4.7,15,5.4,60,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),2 SIM (nano‑SIM và eSIM),iOS,64,5000,4
+iPhone 12 128GB | Chính hãng VN/A,9990000,4.8,43,6.1,60,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),2 SIM (nano‑SIM và eSIM),iOS,128,5000,4
+iPhone 13 512GB | Chính hãng VN/A,25500000,5,1,6.1,60,Apple A15,GPU 4 nhân,2 SIM (nano‑SIM và eSIM),iOS,512,3240,4
+iPhone 13 Pro 256GB | Chính hãng VN/A,24490000,5,2,6.1,120,Apple A15 Bionic 6 nhân,Apple GPU 4 nhân,2 SIM (nano‑SIM và eSIM),iOS,256,3095,6
+iPhone 13 Pro 128GB | Chính hãng VN/A,21990000,4.6,11,6.1,120,Apple A15 Bionic 6 nhân,GPU 4 nhân,2 SIM (nano‑SIM và eSIM),iOS,128,3095,6
+iPhone 13 256GB | Chính hãng VN/A,14990000,4.5,4,6.1,60,Apple A15,Apple GPU 4 nhân,2 SIM (nano‑SIM và eSIM),iOS,256,3240,4
+iPhone 13 Pro Max 128GB | Chính hãng VN/A,22990000,4.9,179,6.7,120,Apple A15 Bionic 6 nhân,GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,128,4352,6
+iPhone 13 Pro Max 256GB | Chính hãng VN/A,23990000,4.8,33,6.7,120,Apple A15 Bionic 6 nhân,GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,256,4352,6
+iPhone 14 Pro Max 1TB | Chính hãng VN/A,41790000,5,1,6.7,120,Apple A16 Bionic 6 nhân,Apple GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,1024,4323,6
+iPhone 14 Pro 256GB | Chính hãng VN/A,24990000,4.6,5,6.1,120,Apple A16 Bionic,GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,256,3200,6
+iPhone 14 Pro Max 256GB | Chính hãng VN/A,27990000,4.9,35,6.7,120,Apple A16 Bionic 6 nhân,Apple GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,256,4323,6
+iPhone 14 Pro 128GB | Chính hãng VN/A,22990000,4.9,21,6.1,120,Apple A16 Bionic 6 nhân,GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,128,3200,6
+iPhone 14 Plus 512GB | Chính hãng VN/A,25490000,5,10,6.7,60,Apple A15 Bionic,5 nhân GPU,2 SIM (nano‑SIM và eSIM),iOS,512,4325,6
+iPhone 14 Plus 256GB | Chính hãng VN/A,19990000,4.8,6,6.7,60,Apple A15 Bionic,5 nhân GPU,2 SIM (nano‑SIM và eSIM),iOS,256,4325,6
+iPhone 14 Plus 128GB | Chính hãng VN/A,17990000,4.8,25,6.7,60,Apple A15 Bionic,5 nhân GPU,2 SIM (nano‑SIM và eSIM),iOS,128,4325,6
+iPhone 14 256GB | Chính hãng VN/A,15990000,5,1,6.1,60,Apple A15 Bionic 6 nhân,Apple GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,256,3279,6
+iPhone 15 Pro 256GB | Chính hãng VN/A,27490000,5,6,6.1,120,Apple A17 Pro 6 nhân,GPU 6 nhân mới,2 SIM (nano‑SIM và eSIM),iOS,256,3274,8
+iPhone 15 Pro Max 1TB | Chính hãng VN/A,34990000,4.7,6,6.7,120,Apple A17 Pro 6 nhân,GPU 6 nhân mới,2 SIM (nano‑SIM và eSIM),iOS,1024,4422,8
+iPhone 16 Plus 512GB | Chính hãng VN/A,29490000,5,10,6.7,60,Apple A18,GPU 5 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,512,5000,8
+iPhone 16e 512GB | Chính hãng VN/A,25490000,5,10,6.1,120,Chip A18,"GPU 4 lõi mới
+Neural Engine 16 lõi mới",Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,512,5000,8
+iPhone 16 256GB | Chính hãng VN/A,22490000,4.9,15,6.1,60,Apple A18,GPU 5 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,256,5000,8
+iPhone 16 Pro Max 1TB | Chính hãng VN/A,42990000,5,12,6.9,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,1024,5000,8
+iPhone 16 Plus 256GB | Chính hãng VN/A,25890000,5,5,6.7,60,Apple A18,GPU 5 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,256,5000,8
+iPhone 16 Pro 1TB | Chính hãng VN/A,39990000,5,10,6.3,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,1024,5000,8
+iPhone 16 Pro 256GB | Chính hãng VN/A,28590000,4.9,29,6.3,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,256,5000,8
+iPhone 16 Pro 512GB | Chính hãng VN/A,34690000,5,10,6.3,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,512,5000,8
+iPhone 11 128GB | Chính hãng VN/A,9490000,4.9,72,6.1,60,A13 Bionic,Apple GPU,Nano-SIM + eSIM,iOS,128,3110,4
+iPhone 11 64GB | Chính hãng VN/A,7990000,4.9,158,6.1,60,A13 Bionic,Apple GPU,Nano-SIM + eSIM,iOS,64,3110,4
+iPhone 16e 256GB | Chính hãng VN/A,19490000,5,10,6.1,120,Chip A18,"GPU 4 lõi mới
+Neural Engine 16 lõi mới",Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,256,5000,8
+iPhone 15 Plus 256GB | Chính hãng VN/A,22790000,4.8,17,6.7,60,Apple A16 Bionic,GPU 5 lõi,2 SIM (nano‑SIM và eSIM),iOS,256,4383,6
+iPhone 12 Pro Max 128GB I Chính hãng VN/A,23490000,4.9,173,6.7,60,Apple A14 Bionic (5 nm),Apple GPU (4-core graphics),2 SIM (nano‑SIM và eSIM),iOS,128,5000,6
+iPhone 15 Pro 128GB | Chính hãng VN/A,23990000,4.8,20,6.1,120,Apple A17 Pro 6 nhân,GPU 6 nhân mới,2 SIM (nano‑SIM và eSIM),iOS,128,3274,8
+iPhone 16 Plus 128GB | Chính hãng VN/A,22490000,4.8,22,6.7,60,Apple A18,GPU 5 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,128,5000,8
+iPhone 16 Pro Max 512GB | Chính hãng VN/A,37490000,5,24,6.9,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,512,5000,8
+iPhone 15 Pro Max 512GB | Chính hãng VN/A,30990000,4.6,15,6.7,120,Apple A17 Pro 6 nhân,GPU 6 nhân mới,2 SIM (nano‑SIM và eSIM),iOS,512,4422,8
+iPhone 15 256GB | Chính hãng VN/A,18990000,4.4,9,6.1,60,Apple A16 Bionic 6 nhân,GPU 5 lõi,2 SIM (nano‑SIM và eSIM),iOS,256,3349,6
+iPhone 16 128GB | Chính hãng VN/A,19190000,4.8,27,6.1,60,Apple A18,GPU 5 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,128,5000,8
+iPhone 15 Plus 128GB | Chính hãng VN/A,19490000,4.8,48,6.7,60,Apple A16 Bionic,GPU 5 lõi,2 SIM (nano‑SIM và eSIM),iOS,128,4383,6
+iPhone 14 Pro Max 128GB | Chính hãng VN/A,25590000,4.9,114,6.7,120,Apple A16 Bionic 6-core,Apple GPU (5-core graphics),2 SIM (nano‑SIM và eSIM),iOS,128,4323,6
+iPhone 14 128GB  | Chính hãng VN/A,12690000,4.9,31,6.1,60,Apple A15 Bionic 6 nhân,Apple GPU 5 nhân,2 SIM (nano‑SIM và eSIM),iOS,128,3279,6
+Xiaomi POCO M6 6GB 128GB - Chỉ có tại CellphoneS,3190000,4.9,34,6.79,90,Helio G91-Ultra,Mali-G52 MC2,2 SIM (Nano-SIM),Android,128,5030,6
+Samsung Galaxy A15 LTE 8GB 128GB,4290000,4.9,71,6.5,90,MediaTek G99,Mali-G57,2 SIM (Nano-SIM),Android,128,5000,8
+iPhone 16 Pro 128GB | Chính hãng VN/A,25390000,5,32,6.3,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,128,5000,8
+Samsung Galaxy A56 5G 8GB 128GB,9490000,5,10,6.7,120,Exynos 1580,Adreno 610,SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,128,5000,8
+Samsung Galaxy M55 12GB 256GB,9190000,4.9,18,6.7,120,Qualcomm Snapdragon 7 Gen 1 (4 nm),Adreno 644,2 SIM (Nano-SIM),Android,256,5000,12
+iPhone 13 128GB | Chính hãng VN/A,11690000,5,287,6.1,60,Apple A15,Apple GPU 4 nhân,2 SIM (nano‑SIM và eSIM),iOS,128,3240,4
+iPhone 15 Pro Max 256GB | Chính hãng VN/A,27990000,4.9,181,6.7,120,Apple A17 Pro 6 nhân,GPU 6 nhân mới,2 SIM (nano‑SIM và eSIM),iOS,256,4422,8
+Samsung Galaxy Z Flip6 12GB 256GB,19490000,5,16,6.7,120,Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI,Adreno 610,1 Nano SIM + 1 eSIM hoặc 2 eSIM,Android,256,4000,12
+iPhone 16e 128GB | Chính hãng VN/A,16390000,5,35,6.1,120,Chip A18,"GPU 4 lõi mới
+Neural Engine 16 lõi mới",Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,128,5000,8
+Samsung Galaxy S24 FE 5G 8GB 128GB,12990000,4.8,6,6.7,120,Exynos 2400e (4nm),Adreno 610,2 SIM (Nano-SIM),Android,128,4700,8
+Xiaomi 15 Ultra 5G 16GB 512GB,31990000,5,3,6.73,120,Snapdragon 8 Elite (Tiến trình sản xuất 3nm),Adreno GPU,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,Khác,512,5410,16
+iPhone 15 128GB | Chính hãng VN/A,15990000,4.9,62,6.1,60,Apple A16 Bionic 6 nhân,5‑core GPU,2 SIM (nano‑SIM và eSIM),iOS,128,3349,6
+Samsung Galaxy S25 256GB,19590000,5,1,6.2,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,256,4000,12
+OPPO Reno10 Pro+ 5G 12GB 256GB,10990000,4.9,8,6.74,120,Snapdragon 8 plus Gen 1 8 nhân,Adreno 730,2 SIM (Nano-SIM),Android,256,4700,12
+Samsung Galaxy S24 Ultra 12GB 256GB,22990000,4.9,55,6.8,120,Snapdragon 8 Gen 3 For Galaxy,Adreno 750 (1 GHz),SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM,Android,256,5000,12
+Xiaomi 14T Pro 12GB 512GB,14490000,4.9,50,6.67,144,MediaTek Dimensity 9300+,Immortalis-G720 MC12,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,Android,512,5000,12
+Xiaomi Redmi Note 14 6GB 128GB,4690000,4.8,93,6.67,120,MediaTek Helio G99-Ultra,Mali-G57 MC2,2 Nano-SIM,Android,128,5500,6
+Xiaomi 15 5G 12GB 256GB,21990000,4.8,6,6.36,120,Snapdragon 8 Elite (Tiến trình sản xuất 3nm),Adreno GPU,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,Khác,256,5240,12
+Samsung Galaxy S25 Ultra 12GB 256GB,28990000,4.8,26,6.9,120,Snapdragon 8 Elite dành cho Galaxy (3nm),Adreno 610,2 Nano-SIM + eSIM,Android,256,5000,12
+iPhone 16 Pro Max 256GB | Chính hãng VN/A,30990000,4.9,233,6.9,120,Apple A18 Pro,GPU 6 lõi mới,Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim,iOS,256,5000,8
